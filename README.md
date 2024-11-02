@@ -1,4 +1,4 @@
-![Single Worker](https://github.com/user-attachments/assets/bd3b7238-647d-4229-914a-282876cccd44)
+![Rugged Laptop](https://github.com/user-attachments/assets/ca68a70d-2761-444e-8a2d-3b820d5ecc42)
 
 > Single worker task assignment tool.
 #
