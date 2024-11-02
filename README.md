@@ -1,4 +1,4 @@
-![Single Worker](https://github.com/user-attachments/assets/003a00e7-7356-48a3-97b2-00754e76351e)
+![Single Worker](https://github.com/user-attachments/assets/bd3b7238-647d-4229-914a-282876cccd44)
 
 > Single worker task assignment tool.
 #
